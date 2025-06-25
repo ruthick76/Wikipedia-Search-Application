@@ -51,7 +51,7 @@ Wikipedia-Search-Application
 
 ###  Preview
 
-![Wikipedia Search App Screenshot](https://drive.google.com/file/d/1DyOWZUJINFDI5MNUcDH4Ivh6W8eScx0I/view?usp=sharing)
+![Wikipedia Search App ](https://drive.google.com/file/d/1DyOWZUJINFDI5MNUcDH4Ivh6W8eScx0I/view?usp=sharing)
 ---
 
  
